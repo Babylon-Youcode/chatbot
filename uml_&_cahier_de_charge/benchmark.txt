@@ -1,0 +1,153 @@
+Botmake
+Botmake.io is a chatbot creation tool that enables its users to develop simple and conversational chatbots quickly and easily. It comes with a clean and intuitive dashboard in which you can view and manage your chatbots easily. This powerful tool allows you to customise the look and feel of your chatbots to tailor them to your needs and preferences. You can seamlessly embed the chatbots you have created within your website, eCommerce store, blogs, mobile apps and others, with the help of a simple copy-pasting work of the embed code generated. You can even extend your chatbots with the apps present in Botmake’s app store or even create your own custom app in a few simple setups. Your visitors and clients would also be able to see intelligent autocomplete suggestions and typo-fixing features that enhance their typing or chatting experience with your bots. The app even allows to add links into your chats and hide the Botmake.io branding. Additional features include quick copy answers, additional rating points,
+add random answers and even answers along with images and GIFs.
+
+Ochatbot
+Ochatbot.com is a free AI, conversational chatbot platform that does not require coding. Ochatbot increases your business leads and online sales and quickly answers customer questions with modules that include lead forms, surveys, assistant, and eCommerce including importing SKU’s. Ochatbot gathers intelligent data about your users which gives you valuable insights about their preferences. Chatbot development and maintenance are also available. Ochatbot also offers a simple industry-specific LeadBot with no AI.
+
+Chatfuel
+Chatfuel is a Facebook Messenger chatbot for marketing, sales, and support. It has a collection of bot templates that can be used in creating a chatbot on Messenger without any coding skills. It offers a handover process to a human when the chatbot cannot answer a question.
+
+Engati
+Engati offers both a chatbot and live chat. It has the ability to stop a bot response so a human can take over the conversation. It works on social platforms and websites and offers multi-lingual support. It is a no-programming chatbot.
+
+Engagr
+Engagr has chat templates for websites that focus on lead generation and conversions. One unique feature is the chat text can be read out loud to the website visitors using either a pre-recorded or automated voice.
+
+Drift
+Drift’s chatbot qualifies website visitors without using forms, identifies the right sales representative, and schedules a meeting on the sales person’s calendar. The bot conversations are automatically saved and the transcripts are passed to the salespeople for follow-up.    
+
+Botsify
+Botsify is a customer support chatbot. It also has lead generation forms which collect information inside a chatbot conversation on a website or Facebook Messenger. If the chatbot cannot answer a user’s question, the conversation is handed over to a human via email.
+
+ManyChat
+ManyChat is a Messenger bot for marketing, sales, and support. It has a visual drag and drop builder to set up the chatbot without programming, and it integrates a live chat feature to notify an agent that a subscriber needs personal attention. 
+
+Dexter
+Dexter allows you to write the chatbot dialogue in a text editor so you can edit and test right away. There are templates where rich media can be inserted, and it connects with many API’s. Dexter is targeted at agencies and enterprises. 
+
+LivePerson
+LivePerson is a solution for marketing, sales, and customer care applications in specific industries. They have ready-to-go bot templates and pre-configured intents and dialogues for each industry use case that integrate into back-office systems.
+
+BotCore
+BotCore is fully deployable on both on-premise and cloud environments, and it integrates with enterprise apps and legacy systems. There are a number of conversation channels across voice, text, and custom channels. Multi-channel support is handled by Microsoft Bot Framework.
+
+AI Assist by Conversica
+AI Assist is a virtual sales assistant for prospecting, lead generation, and nurturing for the finance industry. The assistant engages the leads through email and gathers new or updated phone numbers and passes the information to a sales rep for follow-up.
+
+AIVO
+Agentbot creates omnichannel experiences on any voice or text channel. It has middleware that interacts with each application such as Zendesk, Salesforce, and Zapier. It uses natural language processing to learn from each conversation.
+
+Amazon Lex
+Amazon Lex is a service for building conversational interfaces into any application using voice and text. It has automatic speech recognition that converts speech to text, and natural language understanding to recognize the intent of the text.
+
+Autochat
+Autochat helps eCommerce businesses engage with their customers through the purchase experience. It has platform integrations with Woo Commerce, Magento, Shopify, and Big Commerce.
+
+Avaamo
+Avaamo offers an AI help desk agent with the ability for multi-turn conversations. There are 150+ prebuilt and custom integrations for healthcare, insurance, financial services, retail, and telecommunications industries.
+
+Dialogflow
+Dialogflow incorporates Google’s machine learning expertise and products such as Google Cloud Speech-to-Text and is optimized for Google Assistant. This bot supports over 20 languages.
+
+Clustaar
+Clustaar has a visual drag and drop builder and allows you to import a plug-and-play template that helps train the bot. The bot starts the conversation and a live chat representative can take over at any time during the conversation.
+
+FlowXO
+FlowXO is a chatbot for lead generation that can switch to live chat when needed. It features the option to accept payments in the middle of a conversation and directs the user to a secure payment portal to complete the transaction.
+
+Helloumi
+Helloumi is a multi-agent bot that has in-chat payments, the ability to create support tickets for each customer and live chat to take over for the bot. It works on websites, instant messaging and landing pages.
+
+Botanic Technologies
+Botanic offers a full suite of conversational systems for enterprises that speak, see, hear and converse multi-modally. They also offer proprietary conversational interfaces for clients to create their own bot.
+
+Chatpath
+Chatpath has a virtual sales assistant with hybrid live chat and appointment booking that syncs with existing calendars, routes leads to the right department, and notify agents via text, email, and push notifications.
+
+Conversy
+Conversy is a B2B customer engagement platform for lead acquisition, customer support, and digital marketing. The bot captures and qualifies leads and schedules meetings. Conversy offers its own CRM system.
+
+Digital Genius
+Digital Genius is a customer service automation platform that uses predictive technology to suggest the best answer to the agent. If the prediction has a high confidence level, the answer is automated.
+
+Flamingo
+Flamingo is a bot for the insurance and banking industries. It operates in either a fully automated or human-assisted mode, allowing agents to join conversations in real-time. This bot is PCI compliant.
+
+Helpshift
+Helpshift is an in-channel customer service bot for the enterprise. Bots are available in 11 languages. You can build your own bot or customize a pre-built bot without a developer.
+
+Hu:toma
+Hu:toma is an open-source conversational AI platform for eCommerce and customer support. The customer support bot is both voice and text. The eCommerce bot is a voice AI sales assistant.
+
+IBM Watson
+IBM Watson AI Assistant integrates diverse conversation technology into an application. The Assistant can be used for a variety of channels including mobile devices, messaging platforms, and robots.
+
+Intercom
+Intercom is a sales, marketing, and support chatbot that integrates with eCommerce and social platforms and has a live chat option. Conversations from social channels can be integrated into a CRM.
+
+BotsCrew
+BotsCrew offers chatbots for hospitality, legal, customer service, finance, eCommerce, entertainment, and concierge service industries. All chatbots are for website, messaging, SMS, and voice assistant like Alexa or Google Home.
+
+ItsAlive
+ItsAlive is a chatbot solution for Facebook Messenger that has a drag and drop conditions and a folder-based system to organize decision trees.
+
+kore.ai
+Kore is an enterprise-grade end-to-end conversational chatbot platform that satisfies the complex use case requirements for the enterprise. It can be deployed on-site, in the cloud, or using a hybrid model. It is an omnichannel platform.
+
+Landbot
+Landbot is a service that transforms websites and landing pages into a conversational experience.
+
+Mobile Monkey
+Mobile Monkey is a Facebook Messenger marketing bot builder with a live chat option. It is targeted to the marketing department and agencies for lead generation and lead qualification.
+
+MSG.ai
+MSG.ai is an AI chatbot for customer service that can respond to emails from the chatbot. It also has in-app, web chat, voice, SMS, and social integrations and allows a human to take over the chat conversation.
+
+NextIT
+NextIT is an enterprise-grade integrated AI solution with intelligent virtual assistants for customer engagement and workforce support for the enterprise. 
+
+Octane AI
+Octane AI is a Facebook Messenger bot that integrates with eCommerce platforms to directly connect with shoppers, track their behavior and report revenue.
+
+Pandorabots
+Pandorabots are conversational agents for eCommerce, customer service, voice, B2C, marketing, and entertainment industries. They offer DIY chatbots to fully turnkey chatbot development solutions.
+
+Pullstring
+Pullstring is a conversational AI platform that allows you to design, prototype, and publish voice applications for Amazon Alexa and Google Home.
+
+Pype Stream
+Pypestream is a conversational AI solution built for customer service automation. It has encrypted B2C exchanges that allow customers to process payments, submit claims, and schedule appointments.
+
+Quriobot
+Quriobot is a build your own bot program with templates and a drag-and-drop designer. It features a conversation designer that works on most social platforms as well as websites and landing pages.
+
+Reply.ai
+Reply.ai is an enterprise bot platform for customer service in the insurance, travel & hospitality, and consumer electronics industries. It integrates with major CRM’s, social networks, and websites.
+
+Sales Machine
+Salesmachine is a Slack bot and customer support tool that alerts you when customers need attention. Track customer health and get a notification if anything changes.
+
+Selekt
+Selekt offers sales and marketing chatbots to automate business processes in real estate, eCommerce, hospitality, airlines, TV broadcasting, and HR.
+
+Semantic Machines
+Semantic Machines is a conversational AI interface for Siri, Google, and Cortana for eCommerce and business.
+
+Smooch
+Smooch manages your messaging channels through a single unified API. It has a bot to human handoff that transfers the conversation history and context to an agent.
+
+Snatchbot
+Snatchbot is an AI-powered chatbot that works on mobile devices, web apps, and popular chat services. You can build an automated bot or a human hybrid chatbot without any coding skills.
+
+Twyla
+Twyla is a professional conversation design software for AI chatbot training. It automates chat and voice and is a CMS for chatbots that updates the content using workflow features.
+
+Web Spiders
+Web Spiders offers an enterprise event chatbot and a lead engagement sales chatbot for customer service and HR for web, social and mobile devices.
+
+Wit.ai
+Wit.ai allows you to create voice and text-based bots that humans can chat with on their preferred messaging platform.
+
+Wizeline
+Wizeline has chatbots for customer support, marketing, events, and conferences, along with voice bots for Alexa and Google. It has Google maps and Yelp integration.
